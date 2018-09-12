@@ -1,4 +1,5 @@
 /*
+Copied program from https://beginnersbook.com/
 Demo for Bitwise Operator:
 &  Bitwise AND
 |  Bitwise OR
