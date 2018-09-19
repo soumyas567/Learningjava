@@ -6,7 +6,7 @@ Enhanced for loop is used when you have an array or a collection. The counter va
 class Enhancedloopexample {
    public static void main(String args[]){
       int arr[]={1,2,3,4};
-      String array[]={"soumya","atiqah","praveen"};
+      String array[]={"Soumya","Aatiqah","Praveen"};
 
       for (int num : arr) {
          System.out.println(num);
